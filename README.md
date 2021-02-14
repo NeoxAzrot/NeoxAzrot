@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **NeoxAzrot1/NeoxAzrot1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://shields.io/
--->
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5)
