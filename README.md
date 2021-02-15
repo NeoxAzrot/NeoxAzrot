@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 https://shields.io/
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=true&hide_border=true&cache_seconds=1800)
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=true&hide_border=true&cache_seconds=1800&langs_count=5)
