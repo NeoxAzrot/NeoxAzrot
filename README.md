@@ -5,13 +5,13 @@
 
 ## 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on [on a designer's portfolio](https://www.ethanpiboyeux.fr/)
+- 🔭 I’m currently working on **a designer's [portfolio](https://www.ethanpiboyeux.fr/)**
 - 🌱 I’m currently learning **React Native, Ruby on Rails, ...**
-- 👯 I’m looking to collaborate on [an application that offers ecological alternatives to everyday products](https://www.makyma.org)
-- 👨🏻‍💻 All of my projects are available at [www.samilafrance.com](https://www.samilafrance.com)
+- 👯 I’m looking to collaborate on **an [application](https://www.makyma.org) that offers ecological alternatives to everyday products**
+- 👨🏻‍💻 All of my projects are available at **[www.samilafrance.com](https://www.samilafrance.com)**
 - 💬 Ask me about **anything and everything, I love to help**
-- 📫 How to reach me **contact@samilafrance.com**
-- ⚡ Fun fact **my rubber duck is a Tepig (Pokémon) figurine**
+- 📫 How to reach me **[contact@samilafrance.com](mailto:contact@samilafrance.com)**
+- ⚡ Fun fact **my rubber duck is a Tepig figurine**
 
 ## 💻 Languages and Tools
 
@@ -25,11 +25,9 @@
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=true&hide_border=true&cache_seconds=1800)
 
----
+## 🤝🏻 Let's connect
 
-## 🤝🏻 Connect with Me
-
-<p align="left">
+<p align="center">
 <a href="https://codepen.io/neoxazrot" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="neoxazrot" height="30" width="40" /></a>
 <a href="https://twitter.com/lafrancesami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lafrancesami" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sami-lafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sami-lafrance" height="30" width="40" /></a>
@@ -38,3 +36,5 @@
 <a href="https://instagram.com/sami.lafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sami.lafrance" height="30" width="40" /></a>
 <a href="https://www.behance.net/samilafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="samilafrance" height="30" width="40" /></a>
 </p>
+
+## 👇🏻 Some of my projects
