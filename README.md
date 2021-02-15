@@ -20,7 +20,7 @@
 ## 📈 Some Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact&count_private=false" alt="neoxazrot" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact&count_private=true" alt="neoxazrot" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=neoxazrot&show_icons=true&locale=en" alt="neoxazrot" />
 </p>
 
