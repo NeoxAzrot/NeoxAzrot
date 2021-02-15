@@ -29,7 +29,7 @@
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=true&hide_border=true&cache_seconds=1800&theme=vue-dark)
 -->
 
-## 🤝🏻 Let's connect
+## 🤝🏻 Let's Connect
 
 <p align="center">
   <a href="https://instagram.com/sami.lafrance" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sami.lafrance" height="30" width="40" /></a>
@@ -38,4 +38,4 @@
   <a href="https://twitter.com/lafrancesami" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lafrancesami" height="30" width="40" /></a>
 </p>
 
-## 👇🏻 Some of my projects
+## 👇🏻 Some of My Projects
