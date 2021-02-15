@@ -19,15 +19,14 @@
 
 ## 📈 Some Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact" alt="neoxazrot" />
-  <img src="https://github-readme-stats.vercel.app/api?username=neoxazrot&show_icons=true&locale=en" alt="neoxazrot" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800&theme=vue-dark" alt="neoxazrot" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=neoxazrot&show_icons=true&locale=en&hide_border=true&cache_seconds=1800&theme=vue-dark&count_private=true&include_all_commits=true" alt="neoxazrot" />
 
 <!--
 #### This week I spent my time on
 
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=true&hide_border=true&cache_seconds=1800)
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=true&hide_border=true&cache_seconds=1800&theme=vue-dark)
 -->
 
 ## 🤝🏻 Let's connect
