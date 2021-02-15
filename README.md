@@ -19,19 +19,22 @@
 
 ## 📈 Some Statistics
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact" alt="neoxazrot" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neoxazrot&show_icons=true&locale=en" alt="neoxazrot" /></p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact" alt="neoxazrot" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=neoxazrot&show_icons=true&locale=en" alt="neoxazrot" />
+
+
+#### This week I spent my time on
 
 ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=true&hide_border=true&cache_seconds=1800)
 
 ## 🤝🏻 Let's connect
 
 <p align="center">
-<a href="https://twitter.com/lafrancesami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lafrancesami" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sami-lafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sami-lafrance" height="30" width="40" /></a>
-<a href="https://fb.com/sami.lafrance.pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sami.lafrance.pro" height="30" width="40" /></a>
-<a href="https://instagram.com/sami.lafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sami.lafrance" height="30" width="40" /></a>
-<a href="https://www.behance.net/samilafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="samilafrance" height="30" width="40" /></a>
+  <a href="https://twitter.com/lafrancesami" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lafrancesami" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sami-lafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sami-lafrance" height="30" width="40" /></a>
+  <a href="https://fb.com/sami.lafrance.pro" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sami.lafrance.pro" height="30" width="40" /></a>
+  <a href="https://instagram.com/sami.lafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sami.lafrance" height="30" width="40" /></a>
+  <a href="https://www.behance.net/samilafrance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="samilafrance" height="30" width="40" /></a>
 </p>
 
 ## 👇🏻 Some of my projects
