@@ -23,11 +23,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=neoxazrot&show_icons=true&locale=en&hide_border=true&cache_seconds=1800&theme=vue-dark&count_private=true&include_all_commits=true" alt="neoxazrot" />
 
-<!--
-#### This week I spent my time on
-
-![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=true&hide_border=true&cache_seconds=1800&theme=vue-dark)
--->
+![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=false&hide_border=true&cache_seconds=1800&theme=vue-dark&langs_count=5)
 
 ## 🤝🏻 Let's Connect
 
