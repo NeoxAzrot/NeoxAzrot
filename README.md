@@ -5,9 +5,9 @@
 
 ## 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on **my own [portfolio](https://www.samilafrance.com/)**
+- 🔭 I’m currently working on **my [own portfolio](https://www.samilafrance.com/)**
 - 🌱 I’m currently learning **React Native, Ruby on Rails, ...**
-- 📄 My last work was on **a designer's [portfolio](https://www.ethanpiboyeux.fr/)**
+- 📄 My last work was on **a [designer's portfolio](https://www.ethanpiboyeux.fr/)**
 - 👯 I’m looking to collaborate on **an [application](https://www.makyma.org/) that offers ecological alternatives to everyday products**
 - 👨🏻‍💻 All of my projects are available at **[www.samilafrance.com](https://www.samilafrance.com/)**
 - 💬 Ask me about **anything and everything, I love to help**
