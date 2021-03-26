@@ -5,12 +5,13 @@
 
 ## 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on **a designer's [portfolio](https://www.ethanpiboyeux.fr/)**
+- 🔭 I’m currently working on **my own [portfolio](https://www.samilafrance.com/)**
 - 🌱 I’m currently learning **React Native, Ruby on Rails, ...**
-- 👯 I’m looking to collaborate on **an [application](https://www.makyma.org) that offers ecological alternatives to everyday products**
-- 👨🏻‍💻 All of my projects are available at **[www.samilafrance.com](https://www.samilafrance.com)**
+- 📄 My last work was on **a designer's [portfolio](https://www.ethanpiboyeux.fr/)**
+- 👯 I’m looking to collaborate on **an [application](https://www.makyma.org/) that offers ecological alternatives to everyday products**
+- 👨🏻‍💻 All of my projects are available at **[www.samilafrance.com](https://www.samilafrance.com/)**
 - 💬 Ask me about **anything and everything, I love to help**
-- 📫 How to reach me **[contact@samilafrance.com](mailto:contact@samilafrance.com)**
+- 📫 How to reach me **[contact@samilafrance.com](mailto:contact@samilafrance.com/)**
 - ⚡ Fun fact **my rubber duck is a Tepig figurine**
 
 ## 💻 Languages and Tools
