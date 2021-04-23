@@ -69,6 +69,12 @@
   <a href="https://jekyllrb.com/" target="_blank" title="jekyll">
     <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/>
   </a>
+  <a href="https://gulpjs.com" target="_blank" title="gulp">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
+  </a>
+  <a href="https://babeljs.io/" target="_blank" title="babel">
+    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+  </a>
 </p>
 
 ### Backend Development
@@ -171,14 +177,8 @@
    <a href="https://www.gnu.org/software/bash/" target="_blank" title="bash">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
-   <a href="https://www.chartjs.org" target="_blank" title="chartjs">
+  <a href="https://www.chartjs.org" target="_blank" title="chartjs">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-   <a href="https://babeljs.io/" target="_blank" title="babel">
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
-  </a>
-   <a href="https://gulpjs.com" target="_blank" title="gulp">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
   </a>
 </p>
 
