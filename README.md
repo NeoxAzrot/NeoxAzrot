@@ -9,7 +9,7 @@
 - 📄 My last work was on **a [designer's portfolio](https://www.ethanpiboyeux.fr/)**
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on **an [application](https://www.makyma.org/) that offers ecological alternatives to everyday products**
-- 👨🏻‍💻 All of my projects are available at **[www.samilafrance.com](https://www.samilafrance.com/)**
+- 👨🏻‍💻 All of my projects are available at **[samilafrance.com](https://www.samilafrance.com/)**
 - 💬 Ask me about **anything and everything, I love to help**
 - 📫 How to reach me **[contact@samilafrance.com](mailto:contact@samilafrance.com)**
 - ⚡ Fun fact **my rubber duck is a Tepig figurine**
