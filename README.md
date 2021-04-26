@@ -200,3 +200,5 @@
 </p>
 
 ## 👇🏻 Some of My Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=neoxazrot&repo=makyma)](https://github.com/neoxazrot/makyma)
