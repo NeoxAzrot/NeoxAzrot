@@ -193,10 +193,10 @@
 ## 🤝🏻 Let's Connect
 
 <p align="center">
-  <a href="https://instagram.com/sami.lafrance" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sami.lafrance" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sami-lafrance" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sami-lafrance" height="30" width="40" /></a>
-  <a href="https://fb.com/sami.lafrance.pro" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sami.lafrance.pro" height="30" width="40" /></a>
-  <a href="https://twitter.com/lafrancesami" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lafrancesami" height="30" width="40" /></a>
+  <a href="https://instagram.com/sami.lafrance" target="_blank" title="@sami.lafrance"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sami.lafrance" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/sami-lafrance" target="_blank" title="@sami-lafrance"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sami-lafrance" height="30" width="40" /></a>
+  <a href="https://fb.com/sami.lafrance.pro" target="_blank" title="@sami.lafrance.pro"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sami.lafrance.pro" height="30" width="40" /></a>
+  <a href="https://twitter.com/lafrancesami" target="_blank" title="@lafrancesami"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lafrancesami" height="30" width="40" /></a>
 </p>
 
 ## 👇🏻 Some of My Projects
