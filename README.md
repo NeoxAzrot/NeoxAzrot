@@ -171,7 +171,7 @@
 
 ## 📈 Some Statistics
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800&theme=vue-dark" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800&theme=vue-dark&langs_count=8" alt="Most Used Languages" />
 
 ![Wakatime Week Statistics](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=false&hide_border=true&cache_seconds=1800&theme=vue-dark&langs_count=5)
 
