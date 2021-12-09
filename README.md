@@ -108,8 +108,26 @@
   <a href="https://babeljs.io/" target="_blank" title="babel">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
   </a>
+  <a href="https://webpack.js.org" target="_blank" title="webpack">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
+  </a>
   <a href="https://gulpjs.com" target="_blank" title="gulp">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/>
+  </a>
+  <a href="https://jestjs.io" target="_blank" title="jest">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  </a>
+  <a href="https://nestjs.com/" target="_blank" title="nestjs">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
+  </a>
+  <a href="https://www.cypress.io" target="_blank" title="cypress">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" title="redux">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org" target="_blank" title="graphql">
+    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
   <a href="https://www.chartjs.org" target="_blank" title="chartjs">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
@@ -129,6 +147,9 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" title="bash">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
+  <a href="https://ifttt.com/" target="_blank" title="ifttt">
+    <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/>
+  </a>
 </p>
 
 ### Tools
@@ -142,6 +163,9 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" title="mongodb">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" title="docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://heroku.com" target="_blank" title="heroku">
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
