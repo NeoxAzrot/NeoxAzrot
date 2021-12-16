@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working on **my digital agency's [website](https://www.nolez.fr/)**
+- 🔭 I’m currently working on **a 3D designer's portfolio [website](https://www.tristanguillemot.com/)**
 - 📄 My last work was on **a [designer's portfolio](https://www.ethanpiboyeux.fr/)**
 - 🌱 I’m currently learning **Flutter**, **Next.js**
 - 👯 I’m looking to collaborate on **any project**
