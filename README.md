@@ -180,11 +180,11 @@
 
 ## 📈 Some Statistics
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800&theme=vue-dark&langs_count=8" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=neoxazrot&show_icons=true&locale=en&layout=compact&hide_border=true&cache_seconds=1800&theme=vue-dark&langs_count=8" alt="Most Used Languages" />
 
 ![Wakatime Week Statistics](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=NeoxAzrot&hide_title=false&hide_border=true&cache_seconds=1800&theme=vue-dark&langs_count=5)
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=neoxazrot&show_icons=true&locale=en&hide_border=true&cache_seconds=1800&theme=vue-dark&count_private=true&include_all_commits=true" alt="Sami Lafrance's GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=neoxazrot&show_icons=true&locale=en&hide_border=true&cache_seconds=1800&theme=vue-dark&count_private=true&include_all_commits=true" alt="Sami Lafrance's GitHub Statistics" />
 
 ## 🤝🏻 Let's Connect
 
