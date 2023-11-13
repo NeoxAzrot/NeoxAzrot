@@ -15,6 +15,7 @@
 - 📫 How to reach me **[contact@samilafrance.com](mailto:contact@samilafrance.com)**
 - ⚡ Fun fact **my rubber duck is a Tepig figurine**
 
+<!--
 ## 💻 Languages and Tools
 
 ### Languages
@@ -177,6 +178,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
 </p>
+-->
 
 ## 📈 Some Statistics
 
@@ -186,6 +188,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=neoxazrot&show_icons=true&locale=en&hide_border=true&cache_seconds=1800&theme=vue-dark&count_private=true&include_all_commits=true" alt="Sami Lafrance's GitHub Statistics" />
 
+<!--
 ## 🤝🏻 Let's Connect
 
 <p align="center">
@@ -194,6 +197,7 @@
   <a href="https://fb.com/sami.lafrance.pro" target="_blank" title="@sami.lafrance.pro"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sami.lafrance.pro" height="30" width="40" /></a>
   <a href="https://twitter.com/lafrancesami" target="_blank" title="@lafrancesami"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lafrancesami" height="30" width="40" /></a>
 </p>
+-->
 
 ## 👇🏻 Some of My Projects
 
