@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋🏻, I'm Sami</h1>
+<h1 align="center">Hi there 👋🏻, I'm Sami</h1> test
 <!-- <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height="30px" />, I'm Sami</h1> -->
 <h3 align="center">A passionate web & mobile developer, from France 📍</h3>
 
