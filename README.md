@@ -4,7 +4,3 @@
   I design new cybersecurity datasets and build autonomous pipelines
   to generate RL environments at scale.
 </p>
-
-<p align="center">
-  <a href="mailto:contact@samilafrance.com">contact@samilafrance.com</a>
-</p>
